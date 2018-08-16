@@ -31,6 +31,6 @@ Yes, to be honest, I'll be much appreciated if you want to help me continuing th
 
 ★ **Extras** ★
 
-- Check out my articles on how I breached flaws: [Medium](https://medium.com/@TheZeroUnix)
+- Check out my articles: [Medium](https://medium.com/@TheZeroUnix)
 - Vulnerability Storage: [Github/VulnS](https://github.com/Z3r0Un1x/VulnS)
 - My public repository for awesome stuff: [Github/PUBLIC](https://github.com/Z3r0Un1x/PUBLIC)
